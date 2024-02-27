@@ -4,7 +4,7 @@ The SQL project involves creating a database for a clothing store, incorporating
 Foreign key relationships are established, and the tables are populated with sample data. Various SQL queries are then executed to retrieve, 
 sort, and analyze information such as product details, average prices, order values, and the most frequently sold product.
 
-Language: MySQL
+Language: MySQL (100%)
 Used Technologies: MySQL Workbench
 
 Project 2 - Lending Club Data Analysis and Classification Model Development:
