@@ -1,6 +1,6 @@
 ﻿Project Summary - Lending Club Data Analysis and Classification
 
-The Lending Club Data Analysis and Classification project focus on leveraging a dataset spanning 
+The Lending Club Data Analysis and Classification project focuses on leveraging a dataset spanning 
 2007 to 2011 from the peer-to-peer lending platform, Lending Club. The primary objective is to 
 develop a classification model predicting the likelihood of loan repayment by potential borrowers. 
 The project unfolds through distinct stages:
