@@ -1,0 +1,37 @@
+﻿Project Summary - Lending Club Data Analysis and Classification
+
+The Lending Club Data Analysis and Classification project focus on leveraging a dataset spanning 
+2007 to 2011 from the peer-to-peer lending platform, Lending Club. The primary objective is to 
+develop a classification model predicting the likelihood of loan repayment by potential borrowers. 
+The project unfolds through distinct stages:
+
+Data Processing:
+
+This crucial step involves comprehensive data cleaning and preprocessing, laying the foundation 
+for subsequent analyses.
+
+Exploratory Data Analysis (EDA):
+
+Thorough exploration of the dataset involves statistical tests like t-tests or Chi-square. 
+Addressing specific questions, such as the relationship between FICO scores and loan repayment 
+likelihood, correlation between credit age and default probability, and other key insights.
+
+Feature Engineering:
+
+Introducing 20 new variables through feature engineering enhances the dataset, augmenting its 
+predictive power and providing additional dimensions for analysis.
+
+Modeling:
+
+Data clustering is employed using a minimum of three methods to identify potential borrower segments, 
+determining the optimal number of clusters.
+Training five distinct models, each utilizing a different algorithm, and evaluating their performance
+using the AUROC score as a quality metric.
+Assessing the impact of data compression through Principal Component Analysis (PCA) on model performance 
+and comparing results.
+Constructing a final model with an AUROC score target of >= 80%, incorporating feature selection, 
+cross-validation, parameter tuning, and addressing class imbalances.
+
+This comprehensive approach ensures a thorough examination of the dataset, from preprocessing 
+and exploration to advanced modeling techniques, ultimately culminating in a robust classification 
+model for predicting loan repayment outcomes.
