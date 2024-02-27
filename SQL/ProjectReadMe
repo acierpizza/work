@@ -1,0 +1,7 @@
+Project WebStore_DB aims to create a comprehensive database for a clothing store. The project involves designing and implementing tables for producers, products, orders, and customers, each with specific constraints. The tables are interconnected using foreign keys to establish relationships.
+
+The database is populated with sample data, including four producers, twenty products, ten orders, and ten customers. 
+
+The SQL queries include retrieving all product details from the producer at position 1, sorting products alphabetically, calculating the average price for products from that producer, categorizing products into "Affordable" and "Expensive" groups, displaying ordered product names, limiting the display of ordered products, calculating the total order value, and displaying all orders with product names sorted by date. 
+
+The project also involves checking for missing data in the products table, displaying the entries with incomplete information, identifying the best-selling product along with its price, and finding the day with the highest number of placed orders.
