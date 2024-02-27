@@ -1,0 +1,28 @@
+""" 
+GENERAL PROCESS: [domain agnostic / problem agnostic]
+=================================
+
+I love transforming 
+an idea into a model, 
+and a model into an API/product.
+
+I. Extract 
+----------------------------------
+Dynamic Database: 
+via API
+Public API Lists: https://github.com/public-apis/public-apis
+
+Static: 
+Kaggle data 
++ csv to parquet
+
+II. Transform
+----------------------------------
+
+III. Load
+----------------------------------  
+
+
+
+
+ """
